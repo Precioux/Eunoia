@@ -1,0 +1,1077 @@
+,text,intent,slots,pattern_id
+1455,بی‌پدر,offensive_general,o,3001455
+1473,به درک,offensive_general,o o,3001473
+1479,ازگل,offensive_general,o,3001479
+1489,ابله,offensive_general,o,3001489
+1491,دروغگو,offensive_general,o,3001491
+1493,کونی,offensive_general,o,3001493
+1498,قرمساق,offensive_general,o,3001498
+1505,احمق,offensive_general,o,3001505
+1512,تمرکزت به فاک رفته,offensive_general,o o o o,3001512
+1520,برو گمشو,offensive_general,o o,3001520
+1521,پدرسگ,offensive_general,o,3001521
+1522,گوزو,offensive_general,o,3001522
+1523,مادرجنده,offensive_general,o,3001523
+1526,جنده,offensive_general,o,3001526
+1529,هالو,offensive_general,o,3001529
+1530,روسپی,offensive_general,o,3001530
+1532,دهنتو ببند,offensive_general,o o,3001532
+1539,خفه شو,offensive_general,o o,3001539
+1540,جاکش,offensive_general,o,3001540
+1541,حرومزاده,offensive_general,o,3001541
+1549,میمون,offensive_general,o,3001549
+1554,کس ننت,offensive_general,o o,3001554
+1610,برو گم شو,offensive_general,o o o,3001610
+1622,کیرم تو قبرت,offensive_general,o o o,3001622
+1639,کفتار,offensive_general,o,3001639
+1646,افغانی,offensive_general,o,3001646
+1660,نکبت,offensive_general,o,3001660
+1662,خاک برسرت با حرف زدنت,offensive_general,o o o o o,3001662
+1679,ریدم بهت,offensive_general,o o,3001679
+1694,جاکش,offensive_general,o,3001694
+1721,پدرسوخته,offensive_general,o,3001721
+1726,حرف مفت نزن,offensive_general,o o o,3001726
+1768,کون لقت,offensive_general,o o,3001768
+1772,گوزیدی,offensive_general,o,3001772
+1774,جاکش,offensive_general,o,3001774
+1787,لاشخور,offensive_general,o,3001787
+1800,خایه مال,offensive_general,o o,3001800
+1830,گوساله,offensive_general,o,3001830
+1836,کون گشاد,offensive_general,o o,3001836
+1839,عوضی,offensive_general,o,3001839
+1848,برو گمشو,offensive_general,o o,3001848
+1864,الاغ,offensive_general,o,3001864
+1865,خدا لعنتت کنه,offensive_general,o o o,3001865
+1867,لعنتی,offensive_general,o,3001867
+1876,کون نشور,offensive_general,o o,3001876
+1884,عن خانم,offensive_general,o o,3001884
+1886,سگ,offensive_general,o,3001886
+1887,گاییدمت,offensive_general,o,3001887
+1888,زنیکه,offensive_general,o,3001888
+1890,کیرم توت,offensive_general,o o,3001890
+1892,مادر جنده,offensive_general,o o,3001892
+1921,مرتیکه,offensive_general,o,3001921
+1923,کیری,offensive_general,o,3001923
+1931,پدر سگ,offensive_general,o o,3001931
+1941,اسکول,offensive_general,o,3001941
+1943,ابله,offensive_general,o,3001943
+1949,کفتار,offensive_general,o,3001949
+1952,دیوث,offensive_general,o,3001952
+1954,جاکش,offensive_general,o,3001954
+1958,کونت سوخت,offensive_general,o o,3001958
+1978,کیرتوت,offensive_general,o,3001978
+1979,کونی,offensive_general,o,3001979
+1982,بیسواد,offensive_general,o,3001982
+1986,زر مفت نزن,offensive_general,o o o,3001986
+1988,کونی,offensive_general,o,3001988
+1991,دروغگو,offensive_general,o,3001991
+1993,شاشو,offensive_general,o,3001993
+2003,بی لیاقت,offensive_general,o o,3002003
+2012,بی ارزش,offensive_general,o o,3002012
+2016,چاخان,offensive_general,o,3002016
+2017,کون لقت,offensive_general,o o,3002017
+2020,حرومزاده,offensive_general,o,3002020
+2021,گدا,offensive_general,o,3002021
+2026,کیرم تو کونت,offensive_general,o o o,3002026
+2030,عوضی,offensive_general,o,3002030
+2032,گوزو,offensive_general,o,3002032
+2035,عن,offensive_general,o,3002035
+2036,کثافت,offensive_general,o,3002036
+2037,تف به ذاتت,offensive_general,o o o,3002037
+2041,کیرم تو دهنت,offensive_general,o o o,3002041
+2049,لاس زن,offensive_general,o o,3002049
+2052,عنتر,offensive_general,o,3002052
+2053,انتر,offensive_general,o,3002053
+2063,گدا,offensive_general,o,3002063
+2064,لال شو,offensive_general,o o,3002064
+2065,گوزو,offensive_general,o,3002065
+2072,جاکش,offensive_general,o,3002072
+2075,آشغال,offensive_general,o,3002075
+2081,عوضی,offensive_general,o,3002081
+2088,کیرم توت,offensive_general,o o,3002088
+2091,حرومزاده,offensive_general,o,3002091
+2092,جنده,offensive_general,o,3002092
+2099,برو گم شو,offensive_general,o o o,3002099
+2104,دزد,offensive_general,o,3002104
+2105,احمق,offensive_general,o,3002105
+2109,بی ناموس,offensive_general,o o,3002109
+2113,مزدور,offensive_general,o,3002113
+2114,حرومزاده,offensive_general,o,3002114
+2115,روانی,offensive_general,o,3002115
+2118,جاکش,offensive_general,o,3002118
+2120,کفتار,offensive_general,o,3002120
+2122,بیسواد,offensive_general,o,3002122
+2123,هیچ گوهی نمی تونی بخوری,offensive_general,o o o o o,3002123
+2128,بیشعور,offensive_general,o,3002128
+2144,نفهم,offensive_general,o,3002144
+2145,دیوث,offensive_general,o,3002145
+2150,بچه کونی,offensive_general,o o,3002150
+2152,بی ناموس,offensive_general,o o,3002152
+2167,نمک نشناس,offensive_general,o o,3002167
+2170,خایه مال,offensive_general,o o,3002170
+2173,غلط کردی,offensive_general,o o,3002173
+2176,لاشخور,offensive_general,o,3002176
+2177,بیسواد,offensive_general,o,3002177
+2181,کثیف,offensive_general,o,3002181
+2183,متقلب,offensive_general,o,3002183
+2184,کثافت,offensive_general,o,3002184
+2195,زر نزن,offensive_general,o o,3002195
+2200,کوسکش,offensive_general,o,3002200
+2202,نادان,offensive_general,o,3002202
+2203,نفهم,offensive_general,o,3002203
+2210,گوزو,offensive_general,o,3002210
+2211,چسو,offensive_general,o,3002211
+2212,کونت سوخت,offensive_general,o o,3002212
+2222,اسکل,offensive_general,o,3002222
+2226,به فاک رفتی,offensive_general,o o o,3002226
+2230,غلط کردی,offensive_general,o o,3002230
+2232,الدنگ,offensive_general,o,3002232
+2234,کونی,offensive_general,o,3002234
+2235,کون گشاد,offensive_general,o o,3002235
+2238,کس ننت,offensive_general,o o,3002238
+2239,مفت خور,offensive_general,o o,3002239
+2244,خفه شو,offensive_general,o o,3002244
+2245,ب کیرم,offensive_general,o o,3002245
+2255,لاس زن,offensive_general,o o,3002255
+2264,فاسد,offensive_general,o,3002264
+2275,عوضی,offensive_general,o,3002275
+2276,شاشیدم بهت,offensive_general,o o,3002276
+2290,زالو,offensive_general,o,3002290
+2302,نامرد,offensive_general,o,3002302
+2337,نجس,offensive_general,o,3002337
+2339,ملعون,offensive_general,o,3002339
+2342,بیشرف,offensive_general,o,3002342
+2343,ابله,offensive_general,o,3002343
+2350,خایه مال,offensive_general,o o,3002350
+2352,جاکش,offensive_general,o,3002352
+2362,برو گمشو,offensive_general,o o,3002362
+2370,برو دنبال هويت خودت ببين حلال زاده اي يا حرام زاده بيشتر بهت مياد حروم لقمه باشي کثافت,offensive_general,o o o o o o o o o o o o o o o o o o,3002370
+2379,بی دست و پا,offensive_general,o o o o,3002379
+2381,آشغال,offensive_general,o,3002381
+2395,ابله,offensive_general,o,3002395
+2398,بچه کونی,offensive_general,o o,3002398
+2401,فاک یو,offensive_general,o o,3002401
+2419,کون میدی,offensive_general,o o,3002419
+2424,پدرسگ,offensive_general,o,3002424
+2426,الاغ,offensive_general,o,3002426
+2432,پست,offensive_general,o,3002432
+2434,عقب مونده,offensive_general,o o,3002434
+2435,مزدور,offensive_general,o,3002435
+2439,وحشی,offensive_general,o,3002439
+2459,هرزه,offensive_general,o,3002459
+2461,کون لقت,offensive_general,o o,3002461
+2466,شیاد,offensive_general,o,3002466
+2475,برو کيرم تو کس زنت,offensive_general,o o o o o,3002475
+2483,ولدزنا,offensive_general,o,3002483
+2491,مادر به خطا,offensive_general,o o o,3002491
+2500,خایه نداری,offensive_general,o o,3002500
+2511,خارجنده,offensive_general,o,3002511
+2512,خوارتو گاییدم,offensive_general,o o,3002512
+2513,لعنت بر پدر و مادرت,offensive_general,o o o o o,3002513
+2518,تخمی,offensive_general,o,3002518
+2521,مادرجنده,offensive_general,o,3002521
+2522,ابله,offensive_general,o,3002522
+2526,کیری,offensive_general,o,3002526
+2535,خفه,offensive_general,o,3002535
+2536,پخمه,offensive_general,o,3002536
+2541,چرت نگو,offensive_general,o o,3002541
+2546,کیری,offensive_general,o,3002546
+2548,تخم سگ,offensive_general,o o,3002548
+2557,بی غیرت,offensive_general,o o,3002557
+2569,پشمام,offensive_general,o,3002569
+2575,توبه گورپدرحرومزادت خنديدي.,offensive_general,o o o,3002575
+2583,بگا میری,offensive_general,o o,3002583
+2584,خایمال,offensive_general,o,3002584
+2587,کیرم توت,offensive_general,o o,3002587
+2595,بی ناموس,offensive_general,o o,3002595
+2598,اره جون عمت,offensive_general,o o o,3002598
+2608,احمق,offensive_general,o,3002608
+2615,ریدم تو دهنت,offensive_general,o o o,3002615
+2624,کیر شدی,offensive_general,o o,3002624
+2626,بمیر,offensive_general,o,3002626
+2635,بیشعور,offensive_general,o,3002635
+2636,پفیوز,offensive_general,o,3002636
+2638,خدا لعنتت کنه,offensive_general,o o o,3002638
+2639,جاکش,offensive_general,o,3002639
+2640,کسکش,offensive_general,o,3002640
+2642,کونت بسوزه,offensive_general,o o,3002642
+2643,کونت میزارم,offensive_general,o o,3002643
+2646,چلغوز,offensive_general,o,3002646
+2655,گاییدمت,offensive_general,o,3002655
+2657,شیاد,offensive_general,o,3002657
+2661,وحشی,offensive_general,o,3002661
+2667,برو بمیر,offensive_general,o o,3002667
+2671,چقد کیری هستی,offensive_general,o o o,3002671
+2673,تخم سگ,offensive_general,o o,3002673
+2674,چندش,offensive_general,o,3002674
+2678,فاک,offensive_general,o,3002678
+2679,کونت گهیه,offensive_general,o o,3002679
+2683,مادر جنده,offensive_general,o o,3002683
+2686,فتنه گر,offensive_general,o o,3002686
+2687,کی روتو کم میکنی,offensive_general,o o o o,3002687
+2690,مفت خور,offensive_general,o o,3002690
+2694,خاک بر سرت,offensive_general,o o o,3002694
+2698,خایه مال,offensive_general,o o,3002698
+2706,جاکش,offensive_general,o,3002706
+2712,بیسواد,offensive_general,o,3002712
+2714,تخم حروم,offensive_general,o o,3002714
+2717,شیاد,offensive_general,o,3002717
+2725,ریدم بهت,offensive_general,o o,3002725
+2783,خفه شو,offensive_general,o o,3002783
+2802,پفیوز,offensive_general,o,3002802
+2804,فاک یو,offensive_general,o o,3002804
+2805,جاکش,offensive_general,o,3002805
+2807,کیری,offensive_general,o,3002807
+2823,پدر سگ,offensive_general,o o,3002823
+2824,ابله,offensive_general,o,3002824
+2837,بمیر,offensive_general,o,3002837
+2838,حرامزاده,offensive_general,o,3002838
+2844,گوه,offensive_general,o,3002844
+2845,ریدی,offensive_general,o,3002845
+2851,کیر شدی,offensive_general,o o,3002851
+2872,گوه نخور,offensive_general,o o,3002872
+2874,خاک تو سرت,offensive_general,o o o,3002874
+2889,به کیرم,offensive_general,o o,3002889
+2890,کصمشنگ,offensive_general,o,3002890
+2894,دلقک,offensive_general,o,3002894
+2902,گم شو,offensive_general,o o,3002902
+2910,خر خودتی,offensive_general,o o,3002910
+2940,زارت,offensive_general,o,3002940
+2948,فاک یو,offensive_general,o o,3002948
+2949,وحشی,offensive_general,o,3002949
+2951,پدر سوخته,offensive_general,o o,3002951
+2959,انگل,offensive_general,o,3002959
+2968,بچه باز,offensive_general,o o,3002968
+2970,ببند دهنتو,offensive_general,o o,3002970
+2975,برو کير تو کونت,offensive_general,o o o o,3002975
+2977,قرمساق,offensive_general,o,3002977
+2979,توهم زدی,offensive_general,o o,3002979
+2983,خارکسه,offensive_general,o,3002983
+2991,عن خاصی هستی,offensive_general,o o o,3002991
+2995,به جهنم,offensive_general,o o,3002995
+3001,احمق,offensive_general,o,3003001
+3005,خاک تو سرت برینن,offensive_general,o o o o,3003005
+3023,بيضهام تو حلقومت,offensive_general,o o o,3003023
+3029,پاچه خوار,offensive_general,o o,3003029
+3030,انگل,offensive_general,o,3003030
+3034,چاقال,offensive_general,o,3003034
+3038,بیشرف,offensive_general,o,3003038
+3046,خفه,offensive_general,o,3003046
+3048,کفتار,offensive_general,o,3003048
+3050,تهی مغز,offensive_general,o o,3003050
+3052,احمق,offensive_general,o,3003052
+3059,کون لقت,offensive_general,o o,3003059
+3066,دهنتو ببند,offensive_general,o o,3003066
+3082,گوه توت,offensive_general,o o,3003082
+3090,تر زدی,offensive_general,o o,3003090
+3092,تخم نداری,offensive_general,o o,3003092
+3102,حرومزاده,offensive_general,o,3003102
+3107,کیرم توت,offensive_general,o o,3003107
+3125,کیرم تو کونت,offensive_general,o o o,3003125
+3126,کیر توت,offensive_general,o o,3003126
+3152,کیر,offensive_general,o,3003152
+3154,ملعون,offensive_general,o,3003154
+3162,۴۰ پدر,offensive_general,o o,3003162
+3165,به جهنم,offensive_general,o o,3003165
+3167,دارالخلا,offensive_general,o,3003167
+3174,اسکول,offensive_general,o,3003174
+3178,بگم به کیرم ناراحت میشی؟,offensive_general,o o o o o,3003178
+3182,خاک بر سرت,offensive_general,o o o,3003182
+3203,نگاییدمت,offensive_general,o,3003203
+3206,کیری,offensive_general,o,3003206
+3214,مزخرف,offensive_general,o,3003214
+3222,بمیر,offensive_general,o,3003222
+3224,بیشرف,offensive_general,o,3003224
+3231,لعنت بهت,offensive_general,o o,3003231
+3235,بگا رفتی,offensive_general,o o,3003235
+3237,شلغم,offensive_general,o,3003237
+3255,فاک یو,offensive_general,o o,3003255
+3261,مادرجنده,offensive_general,o,3003261
+3276,پفیوز,offensive_general,o,3003276
+3285,دیوانه,offensive_general,o,3003285
+3289,کیرم تو مغز نداشتت,offensive_general,o o o o,3003289
+3307,کون لقت,offensive_general,o o,3003307
+3313,آشغال,offensive_general,o,3003313
+3322,جلف.سبک.دنبه,offensive_general,o,3003322
+3323,بري ب جهنم بيشرف,offensive_general,o o o o,3003323
+3324,اسکول,offensive_general,o,3003324
+3327,اشغال,offensive_general,o,3003327
+3344,گاگول,offensive_general,o,3003344
+3350,انتر,offensive_general,o,3003350
+3354,تخمی,offensive_general,o,3003354
+3356,چس,offensive_general,o,3003356
+3357,ریدی,offensive_general,o,3003357
+3372,زن جنده,offensive_general,o o,3003372
+3381,مریضی,offensive_general,o,3003381
+3390,جاکش,offensive_general,o,3003390
+3392,کون پاره,offensive_general,o o,3003392
+3397,کسخل,offensive_general,o,3003397
+3421,ریدم,offensive_general,o,3003421
+3427,احمق,offensive_general,o,3003427
+3430,به تخم چپم,offensive_general,o o o,3003430
+3434,ابله,offensive_general,o,3003434
+3442,حالم ازت بهم میخوره,offensive_general,o o o o,3003442
+3445,خاک تو سرت,offensive_general,o o o,3003445
+3446,کوفت,offensive_general,o,3003446
+3451,کثافت,offensive_general,o,3003451
+3454,زن جنده,offensive_general,o o,3003454
+3459,جنده شدی,offensive_general,o o,3003459
+3465,خفه شو بابا,offensive_general,o o o,3003465
+3471,بیناموس,offensive_general,o,3003471
+3474,وات د فاک,offensive_general,o o o,3003474
+3483,خداشما روشفا بده,offensive_general,o o o,3003483
+3487,فاک,offensive_general,o,3003487
+3488,احمق,offensive_general,o,3003488
+3489,کفتار,offensive_general,o,3003489
+3504,مشنگ,offensive_general,o,3003504
+3516,احمق,offensive_general,o,3003516
+3542,ازگل,offensive_general,o,3003542
+3550,پدر سوخته,offensive_general,o o,3003550
+3552,زر مفت نزن,offensive_general,o o o,3003552
+3554,خر خودتی,offensive_general,o o,3003554
+3556,بی گناه وحشی,offensive_general,o o o,3003556
+3568,عن,offensive_general,o,3003568
+3572,داری میمیری,offensive_general,o o,3003572
+3578,ارواح ننت,offensive_general,o o,3003578
+3589,بگا رفتی,offensive_general,o o,3003589
+3596,اسکل,offensive_general,o,3003596
+3603,کیری ,offensive_general,o,3003603
+3607,لعنت بهت,offensive_general,o o,3003607
+3608,کصکش,offensive_general,o,3003608
+3612,ابله,offensive_general,o,3003612
+3613,کون نشور,offensive_general,o o,3003613
+3617,کچل,offensive_general,o,3003617
+3618,خایمال,offensive_general,o,3003618
+3623,گاگول,offensive_general,o,3003623
+3627,اسکل,offensive_general,o,3003627
+3628,ریدم دهنت,offensive_general,o o,3003628
+3633,غلط کردی,offensive_general,o o,3003633
+3635,الاغ احمق,offensive_general,o o,3003635
+3638,عنتر,offensive_general,o,3003638
+3639,خاک بر سرت,offensive_general,o o o,3003639
+3640,احمق,offensive_general,o,3003640
+3643,خارتو گاییدم,offensive_general,o o,3003643
+3646,لاشی,offensive_general,o,3003646
+3658,گه نخور,offensive_general,o o,3003658
+3659,حیف نون,offensive_general,o o,3003659
+3661,حرامزاده,offensive_general,o,3003661
+3671,سیکتیر,offensive_general,o,3003671
+3687,به کیرت,offensive_general,o o,3003687
+3695,بی لیاقت,offensive_general,o o,3003695
+3697,نگاییدم,offensive_general,o,3003697
+3701,کیرم دهنت,offensive_general,o o,3003701
+3704,خاک تو سرت,offensive_general,o o o,3003704
+3705,چقدر بد بختی,offensive_general,o o o,3003705
+3713,جقی,offensive_general,o,3003713
+3715,بیسواد,offensive_general,o,3003715
+3721,کیر,offensive_general,o,3003721
+3730,کونی‌ای,offensive_general,o,3003730
+3746,بیسواد,offensive_general,o,3003746
+3751,چندش,offensive_general,o,3003751
+3754,کسخل,offensive_general,o,3003754
+3761,بدم میاد ازت,offensive_general,o o o,3003761
+3763,بی شرف,offensive_general,o o,3003763
+3764,خیلی خری,offensive_general,o o,3003764
+3768,گوز,offensive_general,o,3003768
+3771,کثافت,offensive_general,o,3003771
+3772,خر,offensive_general,o,3003772
+3775,خایمال,offensive_general,o,3003775
+3781,بگا رفتی,offensive_general,o o,3003781
+3784,میگوزی,offensive_general,o,3003784
+3789,کونی,offensive_general,o,3003789
+3794,مزدور,offensive_general,o,3003794
+3796,تف تو قمبلت ,offensive_general,o o o,3003796
+3797,خری,offensive_general,o,3003797
+3800,زالو,offensive_general,o,3003800
+3807,اره جون عمت,offensive_general,o o o,3003807
+3822,حرف مفت نزن,offensive_general,o o o,3003822
+3823,بی دست و پا,offensive_general,o o o o,3003823
+3832,جنده,offensive_general,o,3003832
+3839,کصلیس,offensive_general,o,3003839
+3846,دزد,offensive_general,o,3003846
+3850,ریدی,offensive_general,o,3003850
+3851,عن,offensive_general,o,3003851
+3852,اسگل,offensive_general,o,3003852
+3854,اسهال طلب,offensive_general,o o,3003854
+3862,گاییدمت,offensive_general,o,3003862
+3867,کونی‌ای,offensive_general,o,3003867
+3870,گاو,offensive_general,o,3003870
+3871,بزغاله,offensive_general,o,3003871
+3873,کره خر,offensive_general,o o,3003873
+3874,به کیرم,offensive_general,o o,3003874
+3876,بی عرضه,offensive_general,o o,3003876
+3877,الدنگ,offensive_general,o,3003877
+3889,بگا رفتی,offensive_general,o o,3003889
+3900,کیرم دهنت,offensive_general,o o,3003900
+3932,فاسد,offensive_general,o,3003932
+3933,بی عرضه,offensive_general,o o,3003933
+3934,جاکشی,offensive_general,o,3003934
+3937,گوزو,offensive_general,o,3003937
+3954,بزن بزن محکم بزن تو سرت ،خاک تو سرت,offensive_general,o o o o o o o o o,3003954
+3955,ابله,offensive_general,o,3003955
+3965,سگ,offensive_general,o,3003965
+3974,ابله,offensive_general,o,3003974
+3978,خجالت بکش,offensive_general,o o,3003978
+3979,خفه شو کثافت لجن,offensive_general,o o o o,3003979
+3985,جنده‌ای,offensive_general,o,3003985
+3986,پدرسوخته,offensive_general,o,3003986
+4007,نادان,offensive_general,o,3004007
+4010,پدرتو درمیارم,offensive_general,o o,3004010
+4014,چشمت کور,offensive_general,o o,3004014
+4027,بی پدر,offensive_general,o o,3004027
+4030,خایه مال,offensive_general,o o,3004030
+4037,تف به ذاتت,offensive_general,o o o,3004037
+4041,وات د فاک,offensive_general,o o o,3004041
+4047,جاکش,offensive_general,o,3004047
+4066,ابله,offensive_general,o,3004066
+4071,فاک یو,offensive_general,o o,3004071
+4072,کیر توت,offensive_general,o o,3004072
+4076,خری,offensive_general,o,3004076
+4077,بي ناموس مردم اگه گيرت بيارن تنها خاهرتو ميگاين,offensive_general,o o o o o o o o o,3004077
+4089,نگاییدمت,offensive_general,o,3004089
+4092,جنده خانوم,offensive_general,o o,3004092
+4095,خاک تو سرت,offensive_general,o o o,3004095
+4097,بیشرف,offensive_general,o,3004097
+4102,ریدی,offensive_general,o,3004102
+4103,احمق,offensive_general,o,3004103
+4110,دیوث,offensive_general,o,3004110
+4122,بیناموس,offensive_general,o,3004122
+4125,برو بمیر,offensive_general,o o,3004125
+4128,بیشرف,offensive_general,o,3004128
+4138,فاک,offensive_general,o,3004138
+4140,بمیر,offensive_general,o,3004140
+4142,صدات کیریه,offensive_general,o o,3004142
+4143,غربتی,offensive_general,o,3004143
+4144,بفاک رفتی,offensive_general,o o,3004144
+4149,خیلی خزی,offensive_general,o o,3004149
+4151,پفیوز,offensive_general,o,3004151
+4153,تاپاله,offensive_general,o,3004153
+4157,پدرسگ,offensive_general,o,3004157
+4158,کسخل,offensive_general,o,3004158
+4162,خدا لعنتت کنه,offensive_general,o o o,3004162
+4169,چاقال,offensive_general,o,3004169
+4180,کیری هستی,offensive_general,o o,3004180
+4181,احمق,offensive_general,o,3004181
+4182,گاو,offensive_general,o,3004182
+4184,روغن بنفشه تو کونت,offensive_general,o o o o,3004184
+4186,حرومزاده,offensive_general,o,3004186
+4188,دیوس,offensive_general,o,3004188
+4194,کون لقت,offensive_general,o o,3004194
+4195,سیکتیر کن,offensive_general,o o,3004195
+4197,بیشرف,offensive_general,o,3004197
+4201,دهنت سرویس,offensive_general,o o,3004201
+4204,عن شدی,offensive_general,o o,3004204
+4207,خفه شو,offensive_general,o o,3004207
+4216,ریدی,offensive_general,o,3004216
+4217,مادر جنده,offensive_general,o o,3004217
+4221,تخمی,offensive_general,o,3004221
+4222,دیوث,offensive_general,o,3004222
+4255,کسکش,offensive_general,o,3004255
+4270,جاکش,offensive_general,o,3004270
+4290,انتر,offensive_general,o,3004290
+4306,کثیف,offensive_general,o,3004306
+4332,کچل,offensive_general,o,3004332
+4334,خفه شدی,offensive_general,o o,3004334
+4336,کیرم دهنت,offensive_general,o o,3004336
+4354,کثافت,offensive_general,o,3004354
+4365,کونی مابهت جرمیخوری کونی,offensive_general,o o o o,3004365
+4380,حروم زاده,offensive_general,o o,3004380
+4391,لعنتی,offensive_general,o,3004391
+4392,شاشو,offensive_general,o,3004392
+4396,کیری ,offensive_general,o,3004396
+4397,کیرم تو کص مادرت,offensive_general,o o o o,3004397
+4401,کیری,offensive_general,o,3004401
+4413,بیشرف,offensive_general,o,3004413
+4416,بدبخت ,offensive_general,o,3004416
+4431,بی‌ناموس,offensive_general,o,3004431
+4438,خایه مال,offensive_general,o o,3004438
+4446,اشغال,offensive_general,o,3004446
+4458,خاک تو سرت,offensive_general,o o o,3004458
+4468,تو دیگه چه خری هستی,offensive_general,o o o o o,3004468
+4484,تخمی,offensive_general,o,3004484
+4486,زشت,offensive_general,o,3004486
+4488,انگل ,offensive_general,o,3004488
+4493,جاکش,offensive_general,o,3004493
+4513,جاکش,offensive_general,o,3004513
+4516,تخمی,offensive_general,o,3004516
+4527,خر,offensive_general,o,3004527
+4530,کیرم توت,offensive_general,o o,3004530
+4535,بیناموس,offensive_general,o,3004535
+4536,سگ تو روحت,offensive_general,o o o,3004536
+4545,تخم حروم,offensive_general,o o,3004545
+4558,کوسخول,offensive_general,o,3004558
+4562,دهنتو گاییدم,offensive_general,o o,3004562
+4563,عن,offensive_general,o,3004563
+4567,جاکش,offensive_general,o,3004567
+4572,برو به جهنم,offensive_general,o o o,3004572
+4575,کسکش,offensive_general,o,3004575
+4576,بندازمت پيش عقرب و مار,offensive_general,o o o o o,3004576
+4577,چقدر حروم زاده ای ,offensive_general,o o o o,3004577
+4579,چقدر خودتو داري جر ميدي 😂😂😂,offensive_general,o o o o o o,3004579
+4580,ریدم پس کله ت,offensive_general,o o o o,3004580
+4581,اسکلللل😂,offensive_general,o,3004581
+4582,از سری بعد خلاصه میگی کونی 😂😂😂,offensive_general,o o o o o o o,3004582
+4583,اووووف دگه چه حالی بده,offensive_general,o o o o o,3004583
+4584,اینقدر حرف زدی ریدی تو حالم,offensive_general,o o o o o o,3004584
+4585,داری ماله می‌کشی ,offensive_general,o o o,3004585
+4586,عای شت بیخیال پس😂😂,offensive_general,o o o o,3004586
+4587,خرفت شدی ,offensive_general,o o,3004587
+4588,بی‌پدر,offensive_general,o,3004588
+4589,چه غروب کیری و دلگیری,offensive_general,o o o o o,3004589
+4590,برو احمق,offensive_general,o o,3004590
+4591,میخوای خودتو یه جنده‌ی تنگ معرفی کنی ,offensive_general,o o o o o o o,3004591
+4592,کونی,offensive_general,o,3004592
+4593,اره جون عمت منم جواب دادم,offensive_general,o o o o o o,3004593
+4594,برو بابا دروغگو,offensive_general,o o o,3004594
+4595,خیلی مزخرفی,offensive_general,o o,3004595
+4596,پس گردني می‌خواهی,offensive_general,o o o,3004596
+4597,خودفروش,offensive_general,o,3004597
+4598,خفه شو بي عرضه مرتيكه نفهم,offensive_general,o o o o o o,3004598
+4601,نفهم,offensive_general,o,3004601
+4602,خفه شو,offensive_general,o o,3004602
+4603,تو خفه,offensive_general,o o,3004603
+4604,کيـرم تو کـس مادر ادمين,offensive_general,o o o o o,3004604
+4606,افغانی دیگه چی بگم,offensive_general,o o o o,3004606
+4607,منم بچگیم کیری بود -_- کیر توش,offensive_general,o o o o o o o,3004607
+4608,لاس بال ماس بازی میکنن,offensive_general,o o o o o,3004608
+4609,ممه میبینم تو اواتار!!!,offensive_general,o o o o,3004609
+4610,اين دنيا، ننه بابا نداره؟ بچه اش هم مثل خودش بي صاحب ميشه,offensive_general,o o o o o o o o o o o o o,3004610
+4611,بلدی برینی به اين لاشي ها,offensive_general,o o o o o o,3004611
+4612,به درک,offensive_general,o o,3004612
+4613,هيچ غلتي نمي توانی بکنی,offensive_general,o o o o o,3004613
+4614,آخه بیشرف تو مگه کار و زندگی نداری,offensive_general,o o o o o o o o,3004614
+4615,دیوث,offensive_general,o,3004615
+4616,خیلی تخمي هستی,offensive_general,o o o,3004616
+4617,حيف به مقام بياري آخه بيچاره پس کي مملکتو‌ چپاول کنه,offensive_general,o o o o o o o o o o o,3004617
+4618,چه کون سفیدی داری جناب گواردیولا,offensive_general,o o o o o o,3004618
+4619,ازگل,offensive_general,o,3004619
+4620,کصکش حرام زاده,offensive_general,o o o,3004620
+4622,کسکش,offensive_general,o,3004622
+4624,کیری,offensive_general,o,3004624
+4626,نجس,offensive_general,o,3004626
+4640,کوسکش,offensive_general,o,3004640
+4647,احمق,offensive_general,o,3004647
+4650,کیر,offensive_general,o,3004650
+4658,پفیوز,offensive_general,o,3004658
+4660,دزد,offensive_general,o,3004660
+4662,الاغ,offensive_general,o,3004662
+4663,خاک تو سرت,offensive_general,o o o,3004663
+4667,ریدم,offensive_general,o,3004667
+4670,جنده,offensive_general,o,3004670
+4675,کیر,offensive_general,o,3004675
+4679,فاک,offensive_general,o,3004679
+4684,زن جنده,offensive_general,o o,3004684
+4685,پفیوز,offensive_general,o,3004685
+4715,کون,offensive_general,o,3004715
+4718,اشغال,offensive_general,o,3004718
+4720,خر ,offensive_general,o,3004720
+4724,اسکل,offensive_general,o,3004724
+4726,مرتیکه ,offensive_general,o,3004726
+4728,کیری,offensive_general,o,3004728
+4730,پشمام,offensive_general,o,3004730
+4731,کصلیس,offensive_general,o,3004731
+4734,اسکل,offensive_general,o,3004734
+4735,برو گمشو,offensive_general,o o,3004735
+4741,کصکش,offensive_general,o,3004741
+4744,به کیرم,offensive_general,o o,3004744
+4745,کون,offensive_general,o,3004745
+4753,عنتر ,offensive_general,o,3004753
+4757,گوه ,offensive_general,o,3004757
+4767,دیوس,offensive_general,o,3004767
+4782,کیر,offensive_general,o,3004782
+4787,پیرسگ,offensive_general,o,3004787
+4788,گاییدمش,offensive_general,o,3004788
+4794,کیرم,offensive_general,o,3004794
+4801,جنده,offensive_general,o,3004801
+4802,کیری,offensive_general,o,3004802
+4806,ديوث,offensive_general,o,3004806
+4810,دهنتو ببند,offensive_general,o o,3004810
+4812,کون کش,offensive_general,o o,3004812
+4818,خاک بر سرتون,offensive_general,o o o,3004818
+4821,ریدم,offensive_general,o,3004821
+4822,به تو چه,offensive_general,o o o,3004822
+4825,جنده,offensive_general,o,3004825
+4828,کیر تو دهنت,offensive_general,o o o,3004828
+4830,خاک تو سرت,offensive_general,o o o,3004830
+4834,آشغال,offensive_general,o,3004834
+4843,ریدم,offensive_general,o,3004843
+4848,بیناموس,offensive_general,o,3004848
+4849,وطن فروش,offensive_general,o o,3004849
+4850,مادر جنده,offensive_general,o o,3004850
+4858,ریدم,offensive_general,o,3004858
+4859,ریدم تو روحت,offensive_general,o o o,3004859
+4861,گه,offensive_general,o,3004861
+4862,گوزو,offensive_general,o,3004862
+4864,احمق,offensive_general,o,3004864
+4866,جاکش,offensive_general,o,3004866
+4872,گاییدی,offensive_general,o,3004872
+4873,کیر,offensive_general,o,3004873
+4874,دهنتو ببند,offensive_general,o o,3004874
+4875,بدبخت,offensive_general,o,3004875
+4879, احمق,offensive_general,o,3004879
+4880,کس کش,offensive_general,o o,3004880
+4882,دزد,offensive_general,o,3004882
+4888,کون,offensive_general,o,3004888
+4895,عن,offensive_general,o,3004895
+4897,خاک تو سر,offensive_general,o o o,3004897
+4898,کیر,offensive_general,o,3004898
+4900,حروم زاده,offensive_general,o o,3004900
+4902,ریدم,offensive_general,o,3004902
+4903,بدبخت,offensive_general,o,3004903
+4909,کیری,offensive_general,o,3004909
+4911,چلغوز,offensive_general,o,3004911
+4918,وطن فروش,offensive_general,o o,3004918
+4919,گوه,offensive_general,o,3004919
+4924,حرام زاده,offensive_general,o o,3004924
+4927,دیوس,offensive_general,o,3004927
+4929,سگ,offensive_general,o,3004929
+4932,حرومزاده,offensive_general,o,3004932
+4933,عنتر,offensive_general,o,3004933
+4949,کون نشور,offensive_general,o o,3004949
+4951,جنده,offensive_general,o,3004951
+4964,زن جنده,offensive_general,o o,3004964
+4971,پشمام,offensive_general,o,3004971
+4972,گمشو,offensive_general,o,3004972
+4973,عوضی,offensive_general,o,3004973
+4976,بی ناموس,offensive_general,o o,3004976
+4977,کیری,offensive_general,o,3004977
+4985,احمق,offensive_general,o,3004985
+4992,کچل,offensive_general,o,3004992
+5001,ریدی بابا,offensive_general,o o,3005001
+5002,ریدی,offensive_general,o,3005002
+5005,جنده,offensive_general,o,3005005
+5018,حال بهم زن,offensive_general,o o o,3005018
+5021,عن,offensive_general,o,3005021
+5024,دیوس,offensive_general,o,3005024
+5029,کون,offensive_general,o,3005029
+5031,پشکل,offensive_general,o,3005031
+5054,فاک,offensive_general,o,3005054
+5055,کیر,offensive_general,o,3005055
+5058,شاش,offensive_general,o,3005058
+5060,حال بهم زن,offensive_general,o o o,3005060
+5064,کیر,offensive_general,o,3005064
+5065,کون,offensive_general,o,3005065
+5077,جاکش,offensive_general,o,3005077
+5079,بي غيرت,offensive_general,o o,3005079
+5081,دروغگو,offensive_general,o,3005081
+5082,بگایی,offensive_general,o,3005082
+5083,به کیرم,offensive_general,o o,3005083
+5086,کیری,offensive_general,o,3005086
+5094,گوز,offensive_general,o,3005094
+5103,کسشر,offensive_general,o,3005103
+5108,عن,offensive_general,o,3005108
+5109,کیر,offensive_general,o,3005109
+5111,هرزه,offensive_general,o,3005111
+5113,کیر,offensive_general,o,3005113
+5115,خدا ازت نگذره,offensive_general,o o o,3005115
+5119,عن,offensive_general,o,3005119
+5120,ریدی,offensive_general,o,3005120
+5123,کیری,offensive_general,o,3005123
+5125,پشمام,offensive_general,o,3005125
+5128,کیرم,offensive_general,o,3005128
+5130,کیرم,offensive_general,o,3005130
+5134,حرومزاده,offensive_general,o,3005134
+5140,تنبل,offensive_general,o,3005140
+5141,بیشعور,offensive_general,o,3005141
+5143,جنده,offensive_general,o,3005143
+5144,کیری,offensive_general,o,3005144
+5146,مسخره,offensive_general,o,3005146
+5147,کون میدی,offensive_general,o o,3005147
+5148,گدا,offensive_general,o,3005148
+5150,ريدم,offensive_general,o,3005150
+5151,کسکش,offensive_general,o,3005151
+5152,دروغ گو,offensive_general,o o,3005152
+5153,الاغ,offensive_general,o,3005153
+5155,لاس,offensive_general,o,3005155
+5165,جنده,offensive_general,o,3005165
+5166,جنده,offensive_general,o,3005166
+5167,کثافت,offensive_general,o,3005167
+5168,کسشر,offensive_general,o,3005168
+5172,سکس,offensive_general,o,3005172
+5178,عن,offensive_general,o,3005178
+5181,پاچه خواري,offensive_general,o o,3005181
+5184,کیر,offensive_general,o,3005184
+5185,کون,offensive_general,o,3005185
+5186,ريدم,offensive_general,o,3005186
+5193,مارمولک,offensive_general,o,3005193
+5194,کیر,offensive_general,o,3005194
+5196,خفه شو,offensive_general,o o,3005196
+5197,امل,offensive_general,o,3005197
+5199,سگ,offensive_general,o,3005199
+5200,مردک,offensive_general,o,3005200
+5201,لعنت بهت,offensive_general,o o,3005201
+5208,اسکل,offensive_general,o,3005208
+5209,فاسد,offensive_general,o,3005209
+5212,عقده ای,offensive_general,o o,3005212
+5213,گوه,offensive_general,o,3005213
+5215,بگایی,offensive_general,o,3005215
+5216,ریدن,offensive_general,o,3005216
+5220,ریدم,offensive_general,o,3005220
+5221,خاک تو سرت,offensive_general,o o o,3005221
+5222,مرتیکه,offensive_general,o,3005222
+5223,عوضی,offensive_general,o,3005223
+5226,دزدی,offensive_general,o,3005226
+5233,کیر,offensive_general,o,3005233
+5234,احمق,offensive_general,o,3005234
+5235,دیوونه,offensive_general,o,3005235
+5237,بیناموس,offensive_general,o,3005237
+5240,عن,offensive_general,o,3005240
+5241,گمشو,offensive_general,o,3005241
+5242,حرومزاده,offensive_general,o,3005242
+5243,بي شرف,offensive_general,o o,3005243
+5244,بي ناموس,offensive_general,o o,3005244
+5248,کیرم,offensive_general,o,3005248
+5249,کوس,offensive_general,o,3005249
+5250,کیرم,offensive_general,o,3005250
+5251,گم شو,offensive_general,o o,3005251
+5252,ریدم,offensive_general,o,3005252
+5254,دروغگو,offensive_general,o,3005254
+5255,لعنت,offensive_general,o,3005255
+5256,جاکش,offensive_general,o,3005256
+5257,جنده,offensive_general,o,3005257
+5259,کون,offensive_general,o,3005259
+5260,کیری,offensive_general,o,3005260
+5263,لاس,offensive_general,o,3005263
+5264,لاس میزنی,offensive_general,o o,3005264
+5268,عن,offensive_general,o,3005268
+5269,شورت,offensive_general,o,3005269
+5271,کير,offensive_general,o,3005271
+5273,پفيوز,offensive_general,o,3005273
+5275,بي ناموس,offensive_general,o o,3005275
+5276,خفه,offensive_general,o,3005276
+5282,بیشرف,offensive_general,o,3005282
+5286,کیری,offensive_general,o,3005286
+5287,جنده,offensive_general,o,3005287
+5288,لاشی,offensive_general,o,3005288
+5290,حال بهم زن,offensive_general,o o o,3005290
+5293,گوه,offensive_general,o,3005293
+5294,گوه میخوری,offensive_general,o o,3005294
+5299,کونش,offensive_general,o,3005299
+5304,فاک,offensive_general,o,3005304
+5306,بدبخت,offensive_general,o,3005306
+5307,پست,offensive_general,o,3005307
+5310,پشمام,offensive_general,o,3005310
+5311,کونش,offensive_general,o,3005311
+5314,خجالت بکش,offensive_general,o o,3005314
+5317,فاک,offensive_general,o,3005317
+5318,گاییدم,offensive_general,o,3005318
+5321,گه,offensive_general,o,3005321
+5325,پلشت,offensive_general,o,3005325
+5327,گه,offensive_general,o,3005327
+5329,بي شرف,offensive_general,o o,3005329
+5333,بدبخت,offensive_general,o,3005333
+5335,احمق,offensive_general,o,3005335
+5337,بیشرف,offensive_general,o,3005337
+5338,کیر,offensive_general,o,3005338
+5339,خفه شو,offensive_general,o o,3005339
+5340,عنتر,offensive_general,o,3005340
+5341,فاک,offensive_general,o,3005341
+5342,الکسيس,offensive_general,o,3005342
+5346,به درک,offensive_general,o o,3005346
+5350,دزد,offensive_general,o,3005350
+5352,کیر,offensive_general,o,3005352
+5354,کیری,offensive_general,o,3005354
+5355,مادرجنده,offensive_general,o,3005355
+5359,فاک,offensive_general,o,3005359
+5360,فاک یو,offensive_general,o o,3005360
+5361,مرتيکه,offensive_general,o,3005361
+5365,کون,offensive_general,o,3005365
+5366,چندش,offensive_general,o,3005366
+5367,کیری,offensive_general,o,3005367
+5368,کسکش,offensive_general,o,3005368
+5369,جنده,offensive_general,o,3005369
+5370,کیرم,offensive_general,o,3005370
+5371,بدبخت,offensive_general,o,3005371
+5374,کیرم,offensive_general,o,3005374
+5375,ریدی,offensive_general,o,3005375
+5377,ریدم,offensive_general,o,3005377
+5378,ريدم,offensive_general,o,3005378
+5380,حرومزاده,offensive_general,o,3005380
+5381,لعنت,offensive_general,o,3005381
+5385,عنتر,offensive_general,o,3005385
+5386,حسود,offensive_general,o,3005386
+5387,ریدم,offensive_general,o,3005387
+5388,کون,offensive_general,o,3005388
+5393,حرومزاده,offensive_general,o,3005393
+5394,بیناموس,offensive_general,o,3005394
+5397,خر,offensive_general,o,3005397
+5398,خری,offensive_general,o,3005398
+5399,کیری,offensive_general,o,3005399
+5401,شت,offensive_general,o,3005401
+5402,پفیوزی,offensive_general,o,3005402
+5403,بیشرف,offensive_general,o,3005403
+5404,شاش,offensive_general,o,3005404
+5407,کون,offensive_general,o,3005407
+5410,کره خر,offensive_general,o o,3005410
+5413,عن,offensive_general,o,3005413
+5414,کیریه,offensive_general,o,3005414
+5415,کس کش,offensive_general,o o,3005415
+5418,دروغ گو,offensive_general,o o,3005418
+5421,کونش,offensive_general,o,3005421
+5422,خایه,offensive_general,o,3005422
+5423,لعنت,offensive_general,o,3005423
+5424,کون,offensive_general,o,3005424
+5425,گاییدم,offensive_general,o,3005425
+5426,حرومزاده,offensive_general,o,3005426
+5427,کس,offensive_general,o,3005427
+5431,شت,offensive_general,o,3005431
+5432,لعنتی,offensive_general,o,3005432
+5433,گمشو,offensive_general,o,3005433
+5434,اسکل,offensive_general,o,3005434
+5435,سیکتیر,offensive_general,o,3005435
+5436,احمق,offensive_general,o,3005436
+5438,احمقا,offensive_general,o,3005438
+5440,جنده,offensive_general,o,3005440
+5442,گوه,offensive_general,o,3005442
+5446,الکسيس,offensive_general,o,3005446
+5449,لعنت,offensive_general,o,3005449
+5452,کوني,offensive_general,o,3005452
+5453,کس,offensive_general,o,3005453
+5456,کير,offensive_general,o,3005456
+5457,کون,offensive_general,o,3005457
+5458,کص,offensive_general,o,3005458
+5463,حرامزاده,offensive_general,o,3005463
+5464,کسکش,offensive_general,o,3005464
+5466,گاییدم,offensive_general,o,3005466
+5469,بيشرف,offensive_general,o,3005469
+5470,دزد,offensive_general,o,3005470
+5471,گوه,offensive_general,o,3005471
+5472,دزد,offensive_general,o,3005472
+5473,سگ,offensive_general,o,3005473
+5476,پشمام,offensive_general,o,3005476
+5479,خائن,offensive_general,o,3005479
+5482,گوه,offensive_general,o,3005482
+5485,خائن,offensive_general,o,3005485
+5488,جاکشی,offensive_general,o,3005488
+5490,کون,offensive_general,o,3005490
+5492,ترسو,offensive_general,o,3005492
+5495,کیرم,offensive_general,o,3005495
+5498,گاییدم,offensive_general,o,3005498
+5499,الکسيس,offensive_general,o,3005499
+5505,بگام,offensive_general,o,3005505
+5507,کون,offensive_general,o,3005507
+5509,کیریه,offensive_general,o,3005509
+5514,نادان,offensive_general,o,3005514
+5516,منافق,offensive_general,o,3005516
+5526,کیریه,offensive_general,o,3005526
+5529,مفت خور,offensive_general,o o,3005529
+5535,کیر,offensive_general,o,3005535
+5537,زارت,offensive_general,o,3005537
+5538,نجس,offensive_general,o,3005538
+5539,خوک,offensive_general,o,3005539
+5541,خایه مالی,offensive_general,o o,3005541
+5543,ان,offensive_general,o,3005543
+5548,بیشرف,offensive_general,o,3005548
+5549,حروم زاده,offensive_general,o o,3005549
+5551,کون,offensive_general,o,3005551
+5553,بگا,offensive_general,o,3005553
+5554,کوني,offensive_general,o,3005554
+5557,کیریه,offensive_general,o,3005557
+5569,جاهل,offensive_general,o,3005569
+5575,پدر سگ,offensive_general,o o,3005575
+5577,عنتر,offensive_general,o,3005577
+5579,لعنت,offensive_general,o,3005579
+5580,خائن,offensive_general,o,3005580
+5582,مفت خور,offensive_general,o o,3005582
+5588,مزدور,offensive_general,o,3005588
+5589,کیر,offensive_general,o,3005589
+5591,کره خر,offensive_general,o o,3005591
+5593,خدا لعنتتون کنه,offensive_general,o o o,3005593
+5595,احمق,offensive_general,o,3005595
+5601,لعنت,offensive_general,o,3005601
+5605,ديوث,offensive_general,o,3005605
+5610,خایه مالی,offensive_general,o o,3005610
+5611,چرت نگو,offensive_general,o o,3005611
+5619,کون,offensive_general,o,3005619
+5622,جنده,offensive_general,o,3005622
+5623,خایه مال,offensive_general,o o,3005623
+5626,شت,offensive_general,o,3005626
+5630,اسکل,offensive_general,o,3005630
+5635,ریدم,offensive_general,o,3005635
+5638,پشمام,offensive_general,o,3005638
+5641,بيشرف,offensive_general,o,3005641
+5642,بي ناموس,offensive_general,o o,3005642
+5644,کون,offensive_general,o,3005644
+5645,فاک,offensive_general,o,3005645
+5647,کیری,offensive_general,o,3005647
+5648,کون,offensive_general,o,3005648
+5650,برو بده,offensive_general,o o,3005650
+5655,لعنت,offensive_general,o,3005655
+5667,پشمام,offensive_general,o,3005667
+5669,خائن,offensive_general,o,3005669
+5670,آشغال,offensive_general,o,3005670
+5677,عن,offensive_general,o,3005677
+5679,گند زدی,offensive_general,o o,3005679
+5693,کون,offensive_general,o,3005693
+5698,جاسوس,offensive_general,o,3005698
+5709,خايه,offensive_general,o,3005709
+5710,فحش,offensive_general,o,3005710
+5712,کون دادن,offensive_general,o o,3005712
+5716,بي‌شعور,offensive_general,o,3005716
+5722,مسخره,offensive_general,o,3005722
+5781,خر,offensive_general,o,3005781
+5787,اشغال,offensive_general,o,3005787
+5803,الاغ,offensive_general,o,3005803
+5809,بدبخت,offensive_general,o,3005809
+5826,بگایی,offensive_general,o,3005826
+5827,پشمام,offensive_general,o,3005827
+5836,لعنت,offensive_general,o,3005836
+5843,کثیف,offensive_general,o,3005843
+5845,خایه نداری,offensive_general,o o,3005845
+5847,گاییدی خودتو,offensive_general,o o,3005847
+5851,لاشی,offensive_general,o,3005851
+5852,بچه کونی,offensive_general,o o,3005852
+5863,کس ننت,offensive_general,o o,3005863
+5864,کص کش,offensive_general,o o,3005864
+5874,کسکش,offensive_general,o,3005874
+5875,کونت میسوزه,offensive_general,o o,3005875
+5893,انگل ,offensive_general,o,3005893
+5896,پدرسگ,offensive_general,o,3005896
+5898,پلشت,offensive_general,o,3005898
+5916,چاقال,offensive_general,o,3005916
+5919,کوسکش,offensive_general,o,3005919
+5923,دیوث ,offensive_general,o,3005923
+5929,زنازاده,offensive_general,o,3005929
+5936,کیری,offensive_general,o,3005936
+5946,نجس زاده,offensive_general,o o,3005946
+5947,زنا زاده,offensive_general,o o,3005947
+5973,مادر جنده,offensive_general,o o,3005973
+5978,تو ناموست,offensive_general,o o,3005978
+5984,دروغگو,offensive_general,o,3005984
+6006,کثافت,offensive_general,o,3006006
+6024,انگل زاده ,offensive_general,o o,3006024
+6038,خایه مال,offensive_general,o o,3006038
+6041,کیر,offensive_general,o,3006041
+6053,بی عرضه,offensive_general,o o,3006053
+6054,کیری,offensive_general,o,3006054
+6056,کسخل,offensive_general,o,3006056
+6057,بیشعور,offensive_general,o,3006057
+6061,شومبول دوست,offensive_general,o o,3006061
+6069,شاش,offensive_general,o,3006069
+6072,الدنگ,offensive_general,o,3006072
+6092,چه زشتی,offensive_general,o o,3006092
+6095,چاقال,offensive_general,o,3006095
+6096,کثیف,offensive_general,o,3006096
+6103,کس کش ,offensive_general,o o,3006103
+6104,نره خر,offensive_general,o o,3006104
+6105,خر,offensive_general,o,3006105
+6131,خجالت بکش,offensive_general,o o,3006131
+6134,سیکتیر,offensive_general,o,3006134
+6137,انگل,offensive_general,o,3006137
+6138,تخمی,offensive_general,o,3006138
+6140,فاحشه,offensive_general,o,3006140
+6152,تو گوه نخور,offensive_general,o o o,3006152
+6156,کونت میسوزه,offensive_general,o o,3006156
+6168,کونت میزارم,offensive_general,o o,3006168
+6177,خایه,offensive_general,o,3006177
+6183,خرفت,offensive_general,o,3006183
+6187,مشنگ بی‌رگ و ریشه ,offensive_general,o o o o,3006187
+6193,چه گهی میخوری,offensive_general,o o o,3006193
+6201,توهم زدی شدید کس مغز,offensive_general,o o o o o,3006201
+6219,واقعا ریدی,offensive_general,o o,3006219
+6226,کیرم تو ناموست,offensive_general,o o o,3006226
+6227,کون دادی,offensive_general,o o,3006227
+6237,پلشت,offensive_general,o,3006237
+6324,گوزو خان,offensive_general,o o,3006324
+6405,عقب مونده ذهنی,offensive_general,o o o,3006405
+6435,احمق هستی,offensive_general,o o,3006435
+6555,کسخل مالیاتی,offensive_general,o o,3006555
+6612,جقی هستی,offensive_general,o o,3006612
+6614,کیر توت,offensive_general,o o,3006614
+6667,چشمت کور دندت نرم,offensive_general,o o o o,3006667
+6784,ممه میبینم تو اواتار!!!,offensive_general,o o o o,3006784
+6804,الاغ نادان,offensive_general,o o,3006804
+6812,کون ,offensive_general,o,3006812
+6813,اشغال,offensive_general,o,3006813
+6814,خر ,offensive_general,o,3006814
+6817,کیری,offensive_general,o,3006817
+6822,کصکش,offensive_general,o,3006822
+6824,کون,offensive_general,o,3006824
+6826,گوه ,offensive_general,o,3006826
+6827,دیوس,offensive_general,o,3006827
+6828,کیر,offensive_general,o,3006828
+6831,کیرم,offensive_general,o,3006831
+6832,جنده,offensive_general,o,3006832
+6833,کیری,offensive_general,o,3006833
+6834,ديوث,offensive_general,o,3006834
+6836,کون کش,offensive_general,o o,3006836
+6838,ریدم,offensive_general,o,3006838
+6841,کیر تو دهنت,offensive_general,o o o,3006841
+6843,آشغال,offensive_general,o,3006843
+6844,ریدم,offensive_general,o,3006844
+6845,بیناموس,offensive_general,o,3006845
+6846,وطن فروش,offensive_general,o o,3006846
+6847,مادر جنده,offensive_general,o o,3006847
+6848,ریدم,offensive_general,o,3006848
+6849,ریدم تو روحت,offensive_general,o o o,3006849
+6850,گه,offensive_general,o,3006850
+6851,گوزو,offensive_general,o,3006851
+6852,احمق,offensive_general,o,3006852
+6853,جاکش,offensive_general,o,3006853
+6854,گاییدی,offensive_general,o,3006854
+6855,کیر,offensive_general,o,3006855
+6858, احمق,offensive_general,o,3006858
+6859,کس کش,offensive_general,o o,3006859
+6860,دزد,offensive_general,o,3006860
+6861,کون,offensive_general,o,3006861
+6862,عن,offensive_general,o,3006862
+6863,خاک تو سر,offensive_general,o o o,3006863
+6864,کیر,offensive_general,o,3006864
+6865,حروم زاده,offensive_general,o o,3006865
+6866,ریدم,offensive_general,o,3006866
+6867,بدبخت,offensive_general,o,3006867
+6868,کیری,offensive_general,o,3006868
+6871,گوه,offensive_general,o,3006871
+6873,دیوس,offensive_general,o,3006873
+6874,سگ,offensive_general,o,3006874
+6875,حرومزاده,offensive_general,o,3006875
+6876,عنتر,offensive_general,o,3006876
+6877,کون نشور,offensive_general,o o,3006877
+6878,جنده,offensive_general,o,3006878
+6879,زن جنده,offensive_general,o o,3006879
+6880,پشمام,offensive_general,o,3006880
+6881,گمشو,offensive_general,o,3006881
+6882,عوضی,offensive_general,o,3006882
+6883,بی ناموس,offensive_general,o o,3006883
+6884,کیری,offensive_general,o,3006884
+6885,احمق,offensive_general,o,3006885
+6887,ریدی بابا,offensive_general,o o,3006887
+6888,ریدی,offensive_general,o,3006888
+6889,جنده,offensive_general,o,3006889
+6891,عن,offensive_general,o,3006891
+6892,دیوس,offensive_general,o,3006892
+6893,کون,offensive_general,o,3006893
+6895,فاک,offensive_general,o,3006895
+6896,کیر,offensive_general,o,3006896
+6897,شاش,offensive_general,o,3006897
+6899,کیر,offensive_general,o,3006899
+6900,کون,offensive_general,o,3006900
+6901,جاکش,offensive_general,o,3006901
+6906,کیری,offensive_general,o,3006906
+6907,گوز,offensive_general,o,3006907
+6909,عن ,offensive_general,o,3006909
+6910,کیر,offensive_general,o,3006910
+6912,کیر,offensive_general,o,3006912
+6914,عن,offensive_general,o,3006914
+6915,ریدی,offensive_general,o,3006915
+6916,کیری,offensive_general,o,3006916
+6917,پشمام,offensive_general,o,3006917
+6918,کیرم,offensive_general,o,3006918
+6919,کیرم,offensive_general,o,3006919
+6920,حرومزاده,offensive_general,o,3006920
+6923,جنده,offensive_general,o,3006923
+6924,کیری,offensive_general,o,3006924
+6925,مسخره کردی مارو,offensive_general,o o o,3006925
+6927,گدا غوره,offensive_general,o o,3006927
+6928,ريدم,offensive_general,o,3006928
+6929,کسکش,offensive_general,o,3006929
+6930,دروغ گو,offensive_general,o o,3006930
+6931,الاغ,offensive_general,o,3006931
+6933,جنده,offensive_general,o,3006933
+6934,جنده,offensive_general,o,3006934
+6941,کون ,offensive_general,o,3006941
+6992,لاشی صفت,offensive_general,o o,3006992
+7063,کس ننت ,offensive_general,o o,3007063
+7160,اشغال عوضی,offensive_general,o o,3007160
+7198,الدنگ دراز,offensive_general,o o,3007198
+7206,سیکتیر کن,offensive_general,o o,3007206

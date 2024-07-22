@@ -1,0 +1,16 @@
+b-iban
+i-username
+i-bankname
+b-exprdate
+i-amount
+b-cardnumber
+i-billname
+b-accountnumber
+o
+b-username
+i-method
+b-method
+b-bankname
+b-amount
+b-billname
+b-cartnumber
