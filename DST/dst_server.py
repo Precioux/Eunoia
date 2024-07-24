@@ -411,13 +411,16 @@ def is_date_today_or_next_week(input_date_str):
 #     return id
 
 
-def turn_generator(conversation_id):
+def turn_generator(conversation_id: str) -> int:
     status = get_latest_status(conversation_id)
-    print('status: ', status)
     if status is None:
         return 1
     elif status == 'not-completed':
-        return int(status) + 1
+        previous_turn = get_latest_turn(conversation_id)
+        print('previous_turn: ', previous_turn)
+        new_turn = int(previous_turn) + 1
+        print('new_turn: ', new_turn)
+        return new_turn
     elif status == 'completed':
         return False
 
@@ -515,6 +518,7 @@ def dst(intent, slots_dict, whatever_flag, cid):
     belief_state = f'Belief State - {intent} :  '
     if intent in data_dict:
         print('DST')
+        print("=================================================================")
         print(f'Intent verified : {intent}')
         m_slots = data_dict[intent]['slots']['mandatory']
         n = len(data_dict[intent]['slots']['mandatory'])
@@ -570,27 +574,35 @@ def dst(intent, slots_dict, whatever_flag, cid):
                 flagP = False
                 print(f'checking for {slot} in currency value')
                 if slot not in slots_dict and 'currency' in slots_dict:
-                    if slot == 'source_currency' and 'source_currency' not in slots_dict:
+                    if slot == 'source_currency' and ('dest_currency' not in slots_dict or slots_dict['dest_currency'] != slots_dict['currency']):
                         slots_dict[slot] = slots_dict['currency']
                         belief_state = belief_state + f'{slots_dict[slot]}  '
                         flagP = True
                         print('founded')
                         m = m + 1
-                    if not flagP:
-                        print(f'not founded')
-                        not_found.append(slot)
-                        belief_state = belief_state + f'not found   '
-                elif slot == 'dest_currency' and 'dest_currency' not in slots_dict:
-                    if slot == 'source_currency' and 'source_currency' not in slots_dict:
+                        if not flagP:
+                            print(f'not founded')
+                            not_found.append(slot)
+                            belief_state = belief_state + f'not found   '
+                    elif slot == 'dest_currency' and ('source_currency' not in slots_dict or slots_dict['source_currency'] != slots_dict['currency']):
                         slots_dict[slot] = slots_dict['currency']
                         belief_state = belief_state + f'{slots_dict[slot]}  '
                         flagP = True
                         print('founded')
                         m = m + 1
-                    if not flagP:
+                        if not flagP:
+                            print(f'not founded')
+                            not_found.append(slot)
+                            belief_state = belief_state + f'not found   '
+                    else:
                         print(f'not founded')
                         not_found.append(slot)
                         belief_state = belief_state + f'not found   '
+                else:
+                    print(f'not founded')
+                    not_found.append(slot)
+                    belief_state = belief_state + f'not found   '
+
 
             elif slot == 'gc':
                 print('gc checking....')
@@ -630,10 +642,15 @@ def dst(intent, slots_dict, whatever_flag, cid):
             print(belief_state)
         if whatever_flag:
             print(f'Setting default value to {not_found}')
-            print(defaults)
             for slot in not_found:
                 print(defaults[slot])
                 slots_dict[slot] = defaults[slot]
+                m = m + 1
+            if n == m:
+                status = 'completed'
+            else:
+                status = 'not-completed'
+
 
     # Checking intents for converters
 
@@ -1050,8 +1067,34 @@ def dst(intent, slots_dict, whatever_flag, cid):
                 type = 'sermon'
         context = {'type': type}
 
+    if intent == 'oos' or intent == 'offensive':
+        status = 'not-completed'
+        context = {'متاسفانه قادر به پاسخگویی به خواسته شما نیستم لطفا مجددا تلاش کنید'}
+
+    print("------------------------------------------------------")
+
     # adding slots to slots database
     print('DATABASE')
+    print("=================================================================")
+    # checking for intent change:
+    print(f'CID for conversation : {cid}')
+    print("------------------------------------------------------")
+    print('Checking if cid changed...')
+    previous_cid = get_latest_conversation_id()
+    if previous_cid is not None:
+        print(f'previous cid: {previous_cid} cid: {cid}')
+        if cid != previous_cid:
+            clear_slots()
+            print('slots cleared for new cid')
+    print("------------------------------------------------------")
+    print('Checking if intent changed...')
+    latest_intent = get_latest_intent(cid)
+    if latest_intent is not None:
+        print(f'Latest intent: {latest_intent} - intent: {intent}')
+        if latest_intent != intent and intent != 'whatever':
+            clear_slots()
+            print('slots cleared for new intent')
+    print("------------------------------------------------------")
     for slot in slots_dict:
         if is_slot_in_columns(slot):
             print(f'adding {slot}:{slots_dict[slot]} to DB')
@@ -1059,16 +1102,13 @@ def dst(intent, slots_dict, whatever_flag, cid):
         else:
             print(f'skipping {slot}')
 
-    # print('generating cid')
-    # cid = conversation_ID_generator()
-    # print(f'cid : {cid}')
-    print(f'CID for conversation : {cid}')
+    print("------------------------------------------------------")
     print('Generating turn')
     t = turn_generator(cid)
     if t:
         print(f'turn : {t}')
-
-    # # adding state to states database
+    print("------------------------------------------------------")
+    # adding state to states database
     if intent != 'whatever':
         add_entry(cid, t, status, intent)
     else:
@@ -1082,8 +1122,11 @@ def dst(intent, slots_dict, whatever_flag, cid):
     if context == '':
         context = str(slots_dict)
 
+    print("------------------------------------------------------")
+
     result = {'status': status, 'context': context, 'intent': intent}
     print(result)
+    print('*******************************************************************************************')
     return result
 
 
@@ -1115,6 +1158,7 @@ def process_user_request(request: UserRequest):
     if request.whatever:
         print('WHATEVER FOUNDED')
         whatever_flag = True
+    print("------------------------------------------------------")
 
     # Add conversation_id to the response
     response_data = dst(intent_label, slots_dict, request.whatever, request.conversation_id)
