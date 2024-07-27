@@ -422,7 +422,7 @@ def turn_generator(conversation_id: str) -> int:
         print('new_turn: ', new_turn)
         return new_turn
     elif status == 'completed':
-        return False
+        return 1
 
 
 # Load data from files
@@ -638,7 +638,7 @@ def dst(intent, slots_dict, whatever_flag, cid):
             status = 'not-completed'
             print(f'Asking question for {not_found[0]}')
             q = random.choice(questions[not_found[0]])
-            context = q
+            context = {'question': q}
             print(belief_state)
         if whatever_flag:
             print(f'Setting default value to {not_found}')
@@ -774,7 +774,7 @@ def dst(intent, slots_dict, whatever_flag, cid):
             ans['prayer_time'] = ''
         context = str(ans)
 
-    if intent == 'translate_it':
+    if intent == 'translate_it' and status == 'completed':
         print('This is Translate it')
         if slots_dict['sentence'] != '':
             ans = {'source_language': '', 'dest_language': '', 'sentence': slots_dict['sentence']}
@@ -877,7 +877,7 @@ def dst(intent, slots_dict, whatever_flag, cid):
         context = "متاسفم من اطلاعات کافی درمورد مواد مغذی ندارم که پاسخگوی شما باشم"
         status = 'completed'
 
-    if intent == 'complaints':
+    if intent == 'complaints' and status == 'completed':
         context = "اعتراض شما ثبت شد و به زودی به آن رسیدگی می شود."
         status = 'completed'
 
@@ -927,7 +927,7 @@ def dst(intent, slots_dict, whatever_flag, cid):
         length = convert_input(slots_dict['length'])
         context = {'length': length}
 
-    if intent == 'ask_weather' and 'date' in slots_dict:
+    if intent == 'ask_weather' and 'date' in slots_dict and status == 'completed':
         date = ''
         vd = convert_relative_date(slots_dict['date'])
         if not vd:
@@ -943,7 +943,7 @@ def dst(intent, slots_dict, whatever_flag, cid):
             datef = dw
         context = {'city': slots_dict['city'], 'date': datef}
 
-    if intent == 'moshaereh' and status == 'completed':
+    if intent == 'moshaere' and status == 'completed':
         context = {'letter': slots_dict['alphabet']}
 
     if intent == 'president' or intent == 'ask_capital':
@@ -991,7 +991,7 @@ def dst(intent, slots_dict, whatever_flag, cid):
     if intent == 'sing_a_song' and status == 'completed':
         context = {}
 
-    if intent == 'bot_favorite' and status == 'completed':
+    if intent == 'bot_favorites' and status == 'completed':
         context = "من یک بات هستم و علاقمندی ندارم"
         status = 'completed'
 
